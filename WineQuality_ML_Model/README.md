@@ -18,7 +18,7 @@
   - **Fixed acidity**, **Volatile acidity**, **Citric acid**, **Residual sugar**
   - **Chlorides**, **Free sulfur dioxide**, **Total sulfur dioxide**
   - **Density**, **pH**, **Sulphates**, **Alcohol**
-- Target: `quality` (scores ranging from 1 to 10)
+- Target: `quality` 
 
 ---
 
@@ -59,8 +59,6 @@
 ## 📂 Future Improvements
 - Train on larger and more diverse datasets.
 - Optimize models with hyperparameter tuning.
-- Develop a web app or API for real-time predictions.
-- Include wine types, regions, and more detailed features.
 
 ---
 
@@ -71,6 +69,6 @@
 - scikit-learn
 - matplotlib
 - seaborn
-- joblib (for model saving)
+- pickle (for model saving)
 
 ---
