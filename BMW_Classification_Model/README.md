@@ -45,3 +45,7 @@ The predictor uses an **ensemble approach** combining:
 - **Derived Features**: Car Age, Price per KM, Engine Power Ratio  
 
 ---
+## 📊 Dataset
+
+The dataset used in this project can be found here:  
+[📂 BMW Car Sales Dataset on Kaggle](https://www.kaggle.com/datasets/sumedh1507/bmw-car-sales-dataset)
