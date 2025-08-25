@@ -13,7 +13,7 @@
 ---
 
 ## 📊 Dataset
-- Source: Wine Quality Dataset (red and/or white wines)
+- Source: [📂 Red Wine Quality Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 - Features include:
   - **Fixed acidity**, **Volatile acidity**, **Citric acid**, **Residual sugar**
   - **Chlorides**, **Free sulfur dioxide**, **Total sulfur dioxide**
