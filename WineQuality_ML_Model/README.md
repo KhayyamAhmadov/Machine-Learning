@@ -62,13 +62,10 @@
 
 ---
 
-## 🛠️ Requirements
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-- pickle (for model saving)
-
----
+## 🛠️ Tech Stack
+- **Python** – Core language  
+- **Scikit-learn** – Machine learning models  
+- **Streamlit** – Web application framework  
+- **Pandas / NumPy** – Data manipulation and numerical computing  
+- **Pickle** – Model saving/loading  
+- **Matplotlib & Seaborn** – Visualization  
