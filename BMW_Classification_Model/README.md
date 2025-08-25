@@ -45,17 +45,3 @@ The predictor uses an **ensemble approach** combining:
 - **Derived Features**: Car Age, Price per KM, Engine Power Ratio  
 
 ---
-
-## 🚀 Installation & Requirements
-To run the application locally, first make sure you have **Python** installed. Then, install the required packages directly from this README:
-
-```bash
-# Clone the repository
-git clone https://github.com/KhayyamAhmadov/bmw-sales-predictor.git
-cd bmw-sales-predictor
-
-# Install dependencies
-pip install streamlit pandas numpy scikit-learn joblib matplotlib seaborn pillow
-
-# Run the Streamlit application
-streamlit run bmw.py
